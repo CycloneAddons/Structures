@@ -1,5 +1,5 @@
 {
-  "name": "@CyclonrAddons/Structures",
+  "name": "@CycloneAddons/Structures",
   "author": {
     "name": "CycloneAddons"
   },
@@ -8,6 +8,11 @@
     "type": "github",
     "url": "https://github.com/CycloneAddons/Structures"
   },
+  "publishConfig": {
+  "access": "public",
+  "registry": "https://registry.npmjs.org/"
+},
+  "private": false,
   "readme": "./README.md",
   "bugs": {
     "url": "https://github.com/CycloneAddons/Structures/issues"
