@@ -1,6 +1,7 @@
 # Structures
 ```js
-npm i @cycloneaddons/structures```
+npm i @cycloneaddons/structures
+  ```
 >**Abstract Data Structures That Make Storing data Much easy.**
 
 >**Each Class Has Certain Features That Makes Storing Particular Data Types Much Easily**
