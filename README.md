@@ -1,6 +1,7 @@
 # Structures
 ```js
 npm i @cycloneaddons/structures
+
   ```
 >**Abstract Data Structures That Make Storing data Much easy.**
 
